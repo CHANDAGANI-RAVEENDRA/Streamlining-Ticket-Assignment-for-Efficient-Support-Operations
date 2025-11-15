@@ -28,15 +28,6 @@ To implement an automated system in ServiceNow that:
 
 ---
 
-## 📂 Project Structure
-
-- `/docs` – Documentation (Design, Planning, Performance Testing)
-- `/screenshots` – Screenshots for each phase of the project
-- `/flows` – JSON or visual exports of Flow Designer logic (if exported)
-- `README.md` – This file
-
----
-
 ## 🧪 Testing & Validation
 
 - Tested using sample ticket entries with varied issue types
