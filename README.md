@@ -3,7 +3,8 @@
 This project aims to automate the ticket assignment process in ServiceNow for ABC Corporation's support team. By leveraging ServiceNow’s Flow Designer, ACLs, and custom tables, the solution reduces manual intervention, minimizes delays in support resolution, and improves overall efficiency.
 
 ---
-
+## DEMO LINK:
+https://youtu.be/Rih6iqKEFcs?si=SjoSMT2gs8m8RBwP
 ## 🚀 Objective
 
 To implement an automated system in ServiceNow that:
